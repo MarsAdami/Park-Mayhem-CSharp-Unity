@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e469800724a1a664da39c38a347a485e
+timeCreated: 1460089184
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 60201
+  packageName: Terrain Stratum Painter
+  packageVersion: 1.1
+  assetPath: Assets/TerrainStratumPainter/Demo/DemoTerrain.asset
+  uploadId: 115845

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: debf01043ebd8f34c8739f66de9306fc
+timeCreated: 1460103404
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 60201
+  packageName: Terrain Stratum Painter
+  packageVersion: 1.1
+  assetPath: Assets/TerrainStratumPainter/readme.odt
+  uploadId: 115845

@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 28ef5eddb360b0144b4fc0e6d6d11ee2
+timeCreated: 1460095147
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 60201
+  packageName: Terrain Stratum Painter
+  packageVersion: 1.1
+  assetPath: Assets/TerrainStratumPainter/Editor/TerrainStratumPainter.cs
+  uploadId: 115845
